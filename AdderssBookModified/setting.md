@@ -1,0 +1,4 @@
+  "gopls": {
+    "ui.completion.usePlaceholders": true,
+     
+  },
